@@ -31,7 +31,7 @@ E. ANALISIS INPUT, PROSES, DAN OUTPUT
 
 2. PROSES:
    - perhitungan luas persegi panjang
-   - umus luas persegi panjang
+   -rumus luas persegi panjang
 
 3. OUTPUT:
    - tampil hasil luas persegi panjang
