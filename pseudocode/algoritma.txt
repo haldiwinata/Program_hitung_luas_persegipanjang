@@ -17,6 +17,8 @@ program menghitung luas persegi
 
 C. DESKRIPSI MASALAH
 program ini dibuat untuk menghitung luas persegi panjang berdasarkan nilai panjang dan lebar yang dimasukan oleh pengguna
+
+
 D. TUJUAN PROGRAM
 
 membantu pengguna menghitung luas persegi panjang cepat dan tepat
